@@ -1,5 +1,6 @@
 """
 Glowing Palm Tree - Code Refactoring
+Glowing Palm Tree
 """
 
 from typing import List, Dict, Optional
